@@ -17,9 +17,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://sethigoldy@bitbucket.org/sethigoldy/bitcoin-prices.git"
+    "url": "git+https://github.com/sethigoldy/cryptocurreny-prices.git"
   },
   "author": "Inderjeet Singh",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/sethigoldy/bitcoin-prices#readme"
+  "homepage": "https://github.com/sethigoldy/cryptocurreny-prices.git#readme"
 }
